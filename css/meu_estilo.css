@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+.fundofixo{
+    background: url(../imagens/pedalboard.jpg) no-repeat fixed; 
+    background-size: cover;
+    -webkit-background-size:cover;
+} 
+
+    .barranav{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+        align-items: center;
+    }
