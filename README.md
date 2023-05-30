@@ -1,2 +1,2 @@
 # PHP-BOOTSTRAP-SITEVENDAS
-Site de vendas, sitema de login e autenticação
+Site de vendas, sitema de login e autenticação. Em desenvolvimento.
